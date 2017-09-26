@@ -1,0 +1,39 @@
+Name: Mort,Kris
+Number of Absences: 1
+Most Recent Absence: 3-18-2017
+
+Name: Willis,Bruce
+Number of Absences: 1
+Most Recent Absence: 4-4-2017
+
+Name: Smith,Jane
+Number of Absences: 1
+Most Recent Absence: 4-4-2017
+
+Name: Sam,Theo
+Number of Absences: 2
+Most Recent Absence: 4-4-2017
+
+Name: Payton,Ella
+Number of Absences: 1
+Most Recent Absence: 4-4-2017
+
+Name: James,Hannah
+Number of Absences: 2
+Most Recent Absence: 4-5-2017
+
+Name: Art,Bruce
+Number of Absences: 1
+Most Recent Absence: 4-4-2017
+
+Name: Leinart,Timothy
+Number of Absences: 1
+Most Recent Absence: 4-4-2017
+
+Name: Beck,Sara
+Number of Absences: 1
+Most Recent Absence: 4-4-2017
+
+Name: Smith,John
+Number of Absences: 2
+Most Recent Absence: 4-4-2017
